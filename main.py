@@ -4,3 +4,5 @@ print("An avarage souvlaki coats 7$")
 if user_input == "Remove onions"
 	print("6,50$")
 #exit
+elif user_input == "potatoes"
+	print("6$")
